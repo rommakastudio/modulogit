@@ -13,3 +13,5 @@ EXEMPLO httpd.conf  do apache
 Alteração realizada no MASTER
 
 atenção com os conteúdos públicos
+
+NOVAS ALTERAÇÕES
