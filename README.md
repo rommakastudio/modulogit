@@ -6,3 +6,6 @@ COMO CONFIGURAR
 DESCRIÇÕES DO PROJETO
 
 EXEMPLO httpd.conf  do apache
+
+
+Alteração feita no MASTER
