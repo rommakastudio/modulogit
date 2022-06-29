@@ -1,3 +1,4 @@
+
 O ARQUIVO README - 
 É A ORIENTAÇÃO DO PROJETO, 
 INSTRUÇÕES,
@@ -8,4 +9,8 @@ DESCRIÇÕES DO PROJETO
 EXEMPLO httpd.conf  do apache
 
 
-Alteração feita no MASTER
+Alteração realizada no MASTER
+
+alguma nova linha legal
+mais uma linha aqui
+
