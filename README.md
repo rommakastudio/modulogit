@@ -1,6 +1,5 @@
 MEU PRIMEIRO SISTEMA NO GIT (alterado e atualizado!)
 
-
 O ARQUIVO README - 
 É A ORIENTAÇÃO DO PROJETO, 
 INSTRUÇÕES,
@@ -13,6 +12,4 @@ EXEMPLO httpd.conf  do apache
 
 Alteração realizada no MASTER
 
-alguma nova linha legal
-mais uma linha aqui
-
+atenção com os conteúdos públicos
